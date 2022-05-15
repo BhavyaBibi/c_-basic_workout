@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<stdlib.h>
-
+// function without argument without return value
     void sum(); //declaration
 
 int main()
