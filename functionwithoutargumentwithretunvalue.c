@@ -3,7 +3,7 @@
 #include<stdlib.h>
 
 //function without argument with return value
-
+z§
 int sum(); //declaration
 
 int main()
