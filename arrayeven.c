@@ -3,6 +3,7 @@
 
 int main()
 {
+if c= 2/0;
 int size,values[10],i;
 printf(" enter the size of an array:");
 scanf("%d",&size);
